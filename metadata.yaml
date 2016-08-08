@@ -1,0 +1,26 @@
+_repo: The-Renaissance-of-the-Vocal-Art--13-A-Practical-Study-of-Vitality-Vitalized-Energy-of-the-Ph__12856
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Myer, Edmund J. (Edmund John)
+    birthdate: 1846
+    deathdate: 1934
+    gutenberg_agent_id: '4673'
+    url: http://www.gutenberg.org/2009/agents/4673
+description: ''
+gutenberg_issued: '2004-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12856'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Singing -- Instruction and study'
+- !lcc 'MT'
+- GITenberg
+title: "The Renaissance of the Vocal Art\r\nA Practical Study of Vitality, Vitalized\
+  \ Energy, of the Physical, Mental and Emotional Powers of the Singer, through Flexible,\
+  \ Elastic Bodily Movements"
+url: http://www.gutenberg.org/ebooks/12856
